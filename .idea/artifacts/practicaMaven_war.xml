@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="practicaMaven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="practicaMaven.war">
+      <element id="artifact" artifact-name="practicaMaven:war exploded" />
+    </root>
+  </artifact>
+</component>
