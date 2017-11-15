@@ -6,6 +6,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="practicaMaven" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:${spring.version}" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:${spring.version}" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/practicaMaven/META-INF/MANIFEST.MF" />
