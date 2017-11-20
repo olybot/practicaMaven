@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="practicaMaven" />
+        <module name="servlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="practicaMaven" target="1.5" />
+      <module name="servlet" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

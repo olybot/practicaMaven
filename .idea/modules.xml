@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/practicaMaven.iml" filepath="$PROJECT_DIR$/practicaMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet.iml" filepath="$PROJECT_DIR$/servlet.iml" />
     </modules>
   </component>
 </project>
